@@ -15,4 +15,4 @@ microservice:
   ms-payment:
     endpoints:
       endpoint:
-        uri: http://ms-payment/pays/pay_product
+        uri: http://ms-payment/pays/pay_products
