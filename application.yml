@@ -10,9 +10,9 @@ eureka:
 microservice:
   ms-order:
     endpoints:
-      enpoint:
+      endpoint:
         uri: http://ms-order/orders/order_products
   ms-payment:
     endpoints:
-      enpoint:
+      endpoint:
         uri: http://ms-payment/pays/pay_products
